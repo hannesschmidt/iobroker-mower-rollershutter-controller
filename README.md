@@ -1,4 +1,4 @@
-# iobroker-mower-rollershutter
+# iobroker-mower-rollershutter-controller
 
 This script can be imported in ioBroker to control a roller shutter (through a Shelly Wi-Fi relais) based on
 states of an automatic mower from Gardena.
